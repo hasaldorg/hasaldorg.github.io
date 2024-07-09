@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>News &#8211; HASALD</title>
+	<atom:link href="/category/news/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The Hong Kong Association for Self-Access Learning and Development</description>
+	<lastBuildDate>Tue, 09 Jul 2024 12:37:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>News: Seasons Greetings e-Card</title>
+		<link>/news-seasons-greetings-e-card/</link>
+		
+		<dc:creator><![CDATA[HASALD]]></dc:creator>
+		<pubDate>Mon, 12 Dec 2016 05:13:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://hasald4.wordpress.com/?p=84</guid>
+
+					<description><![CDATA[Date:  Monday, 12 Dec 2016Topic: James wrote and sent a Seasons Greetings e-Card to all HASALD members with information of the next event printed on it]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Date:  Monday, 12 Dec 2016<br>Topic: James wrote and sent a Seasons Greetings e-Card to all HASALD members with information of the next event printed on it</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>News: HASALD AGM and Presentation</title>
+		<link>/news-hasald-agm-and-presentation/</link>
+		
+		<dc:creator><![CDATA[HASALD]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2016 05:14:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://hasald4.wordpress.com/?p=88</guid>
+
+					<description><![CDATA[Date:  Oct 2016Speakers: Dr Chan Wing Shing (Electronic Engineering, CityU) and Dr Hebe Wong (CityU ELC)Topic: HASALD AGM and Presentation In this presentation HASALD members learned that for ten years the English Language Centre and the Electronic Engineering Department of City University of Hong Kong have worked closely together to provide language support beyond the [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Date:  Oct 2016</strong><br><strong>Speakers: Dr Chan Wing Shing (Electronic Engineering, CityU) and Dr Hebe Wong (CityU ELC)</strong><br><strong>Topic: HASALD AGM and Presentation</strong></p>
+
+
+
+<p>In this presentation HASALD members learned that for ten years the English Language Centre and the Electronic Engineering Department of City University of Hong Kong have worked closely together to provide language support beyond the classroom for Engineering students. Dr Chan explained from the perspective of a discipline teacher the importance of developing communication skills for Engineering students and the challenges faculty members face when doing so. Hebe Wong focussed on the recent projects she has worked on with the Engineering department to illustrate different modes of collaboration with academic departments and to provide language support beyond the classroom for students at both undergraduate and postgraduate levels. The two speakers concluded by summarising their experience in inter-departmental collaboration in language enhancement projects.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>News: Newsletter</title>
+		<link>/news-newsletter/</link>
+		
+		<dc:creator><![CDATA[HASALD]]></dc:creator>
+		<pubDate>Mon, 02 Sep 2002 05:17:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://hasald4.wordpress.com/?p=91</guid>
+
+					<description><![CDATA[Newsletter]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://hasald.files.wordpress.com/2013/02/newslettersept02.pdf">Newsletter</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
