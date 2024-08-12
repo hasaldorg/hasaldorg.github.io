@@ -12,14 +12,51 @@
 	<atom:link href="/author/mdmdiaz-org/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>The Hong Kong Association for Self-Access Learning and Development</description>
-	<lastBuildDate>Thu, 11 Jul 2024 08:46:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 12 Aug 2024 17:14:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
+		<title>Seminar: Professor Guangwei Gu</title>
+		<link>/seminar-professor-guangwei-gu/</link>
+		
+		<dc:creator><![CDATA[HASALD]]></dc:creator>
+		<pubDate>Mon, 12 Aug 2024 17:14:47 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">/?p=208</guid>
+
+					<description><![CDATA[Data-Driven Learning in an EFL Writing Class: What an Experimental Study Has Revealed By Professor Guangwei HuThe Hong Kong Polytechnic University More and more linguistic corpora are publicly available today. They are potentially curricular resources that can provide teachers with pedagogical options, offer learners access to authentic language data, facilitate student-centered and discovery-based learning, and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Data-Driven Learning in an EFL Writing Class: What an Experimental Study Has Revealed</strong></p>
+
+
+
+<p>By Professor Guangwei Hu<br>The Hong Kong Polytechnic University</p>
+
+
+
+<p>More and more linguistic corpora are publicly available today. They are potentially curricular resources that can provide teachers with pedagogical options, offer learners access to authentic language data, facilitate student-centered and discovery-based learning, and consequently foster learner engagement and agency. The adoption of corpus data in the language classroom as teaching and learning resources is known as data-driven learning (DDL). In direct DDL, learners engage in computer-based activities, using corpora and concordancing software to carry out their learning activities, whereas in indirect DDL learners capitalize on corpus data indirectly through corpus-informed, paper-based activities and materials prepared in advance by their teachers. In this talk, I will give an overview of research on DDL and report on a study that set out to investigate and compare the effectiveness of a direct and an indirect approach to DDL in the teaching and learning of hedges. Based on the empirical results obtained (i.e., participants’ mastery of hedges and perceptions of the two DDL approaches), I will discuss pedagogical implications for EFL classrooms and make recommendations for future DDL research.</p>
+
+
+
+<p><strong>Biography</strong></p>
+
+
+
+<p>Professor Guangwei Hu is an applied linguist by training and specializes in language and literacy education. His research consists of three related strands. The first strand centers on second language literacy education in English-as-a-foreign-language contexts and has its roots in his PhD work, which was situated at the intersection of psycholinguistics, language acquisition, and second language writing. The second strand investigates biliteracy acquisition in bilingual and English-as-a-second-language (ESL) contexts, especially such biliteracy development in the early years. His third strand of inquiry focuses on academic literacy. In this work, he has drawn on various linguistic and epistemological theories to examine how knowledge-making practices and social relations may shape the rhetorical and discourse strategies used by members of academic communities to construct and communicate scientific knowledge. His research on academic literacy aims to capture the diversity and complexity of academic literacy practices and offer pedagogical insights and strategies for enhancing the disciplinary literacy of students at various levels of education.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="768" height="1024" src="/wp-content/uploads/2024/08/HASALD-Hu-Poster-768x1024.jpg" alt="" class="wp-image-209" srcset="/wp-content/uploads/2024/08/HASALD-Hu-Poster-768x1024.jpg 768w, /wp-content/uploads/2024/08/HASALD-Hu-Poster-225x300.jpg 225w, /wp-content/uploads/2024/08/HASALD-Hu-Poster.jpg 960w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Seminar: Dr Svetlana Chigaeva-Heddad</title>
 		<link>/seminar-dr-svetlana-chigaeva-heddad/</link>
 		
@@ -62,7 +99,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="768" height="1024" src="/wp-content/uploads/2024/07/HASALD-Chigaeva-Heddad-Poster-768x1024.png" alt="" class="wp-image-177" srcset="/wp-content/uploads/2024/07/HASALD-Chigaeva-Heddad-Poster-768x1024.png 768w, /wp-content/uploads/2024/07/HASALD-Chigaeva-Heddad-Poster-225x300.png 225w, /wp-content/uploads/2024/07/HASALD-Chigaeva-Heddad-Poster.png 960w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2024/07/HASALD-Chigaeva-Heddad-Poster-768x1024.png" alt="" class="wp-image-177" srcset="/wp-content/uploads/2024/07/HASALD-Chigaeva-Heddad-Poster-768x1024.png 768w, /wp-content/uploads/2024/07/HASALD-Chigaeva-Heddad-Poster-225x300.png 225w, /wp-content/uploads/2024/07/HASALD-Chigaeva-Heddad-Poster.png 960w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
 ]]></content:encoded>
 					
 		
@@ -144,7 +181,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2024/07/HASALD-Benati-Poster-768x1024.png" alt="" class="wp-image-170" srcset="/wp-content/uploads/2024/07/HASALD-Benati-Poster-768x1024.png 768w, /wp-content/uploads/2024/07/HASALD-Benati-Poster-225x300.png 225w, /wp-content/uploads/2024/07/HASALD-Benati-Poster.png 960w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" src="/wp-content/uploads/2024/07/HASALD-Benati-Poster-768x1024.png" alt="" class="wp-image-170" srcset="/wp-content/uploads/2024/07/HASALD-Benati-Poster-768x1024.png 768w, /wp-content/uploads/2024/07/HASALD-Benati-Poster-225x300.png 225w, /wp-content/uploads/2024/07/HASALD-Benati-Poster.png 960w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
 ]]></content:encoded>
 					
 		
@@ -327,7 +364,7 @@ Description automatically generated"/></figure>
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>How do you communicate/market to students what resources exist at the university to assist them to learn English in an academic environment?</li>
 
 
@@ -363,27 +400,6 @@ Description automatically generated"/></figure>
 
 
 <p>‘Roxifyonline’ is an automated feedback system designed to give students help with essay writing.&nbsp; This program is the product of Roxanne’s PhD research and was designed for use by EFL/ESL learners. It has been in use by her students for the two years. The programme went through 4 different rounds of beta testing and will soon be available online.&nbsp;The presenters provided student comments on the program, a short demo and a link to use it with teachers’ classes.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Presentation: Adam Forrester from HK PolyU</title>
-		<link>/presentation-adam-forrester-from-hk-polyu/</link>
-		
-		<dc:creator><![CDATA[HASALD]]></dc:creator>
-		<pubDate>Tue, 21 Feb 2017 05:12:00 +0000</pubDate>
-				<category><![CDATA[Events]]></category>
-		<guid isPermaLink="false">https://hasald4.wordpress.com/?p=80</guid>
-
-					<description><![CDATA[Date:&#160; Tuesday, 21 Feb 2017Speakers: Adam Forrester from HK PolyU Adam Forrester is the Project Leader of the MOOC developed by the ELC,&#160;English@Work in Asia. This MOOC was first launched in October 2015, and is now on its third run on the edX platform.&#160;Adam’s talk taught us how MOOCs have developed, their characteristics, and presented [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Date:&nbsp; Tuesday, 21 Feb 2017</strong><br><strong>Speakers: Adam Forrester from HK PolyU</strong></p>
-
-
-
-<p>Adam Forrester is the Project Leader of the MOOC developed by the ELC,&nbsp;<strong>English@Work in Asia</strong>. This MOOC was first launched in October 2015, and is now on its third run on the edX platform.&nbsp;Adam’s talk taught us how MOOCs have developed, their characteristics, and presented two types of MOOC – the cMOOC and xMOOC. &nbsp;Adam also discussed where MOOCs might be heading in the future.</p>
 ]]></content:encoded>
 					
 		
