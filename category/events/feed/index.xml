@@ -12,7 +12,7 @@
 	<atom:link href="/category/events/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>The Hong Kong Association for Self-Access Learning and Development</description>
-	<lastBuildDate>Mon, 12 Aug 2024 17:14:47 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Sep 2024 02:31:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,27 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
+		<title>Upcoming HASALD Seminars (2024/25)</title>
+		<link>/upcoming-hasald-seminars-2024-25/</link>
+		
+		<dc:creator><![CDATA[HASALD]]></dc:creator>
+		<pubDate>Mon, 02 Sep 2024 02:31:46 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">/?p=212</guid>
+
+					<description><![CDATA[Below you can find a list of upcoming speakers for our monthly HASALD seminars. This list will be updated as new speakers are added. September 2024 Professor Hu Guangwei October 2024 Professor Barry Bai November 2024 Dr Lucas Kohnke December 2024 Dr Gavin Bei January 2025 Professor Edward Zhisheng Wen March 2025 Dr Wesley Curtis]]></description>
+										<content:encoded><![CDATA[
+<p>Below you can find a list of upcoming speakers for our monthly HASALD seminars. This list will be updated as new speakers are added.</p>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>September 2024</td><td>Professor Hu Guangwei</td></tr><tr><td>October 2024</td><td>Professor Barry Bai</td></tr><tr><td>November 2024</td><td>Dr Lucas Kohnke</td></tr><tr><td>December 2024</td><td>Dr Gavin Bei</td></tr><tr><td>January 2025</td><td>Professor Edward Zhisheng Wen</td></tr><tr><td>March 2025</td><td>Dr Wesley Curtis</td></tr></tbody></table></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Seminar: Professor Guangwei Gu</title>
 		<link>/seminar-professor-guangwei-gu/</link>
 		
@@ -379,27 +400,6 @@ Description automatically generated"/></figure>
 
 
 <p>How do you foster interdisciplinary collaborations with Faculties and Units?</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Presentation: Roxanne Miller (formerly Wong)</title>
-		<link>/presentation-roxanne-miller-formerly-wong/</link>
-		
-		<dc:creator><![CDATA[HASALD]]></dc:creator>
-		<pubDate>Tue, 25 Apr 2017 05:11:00 +0000</pubDate>
-				<category><![CDATA[Events]]></category>
-		<guid isPermaLink="false">https://hasald4.wordpress.com/?p=78</guid>
-
-					<description><![CDATA[Date:&#160; Tuesday, 25 Apr 2017Speakers: Roxanne Miller (formerly Wong) ‘Roxifyonline’ is an automated feedback system designed to give students help with essay writing.&#160; This program is the product of Roxanne’s PhD research and was designed for use by EFL/ESL learners. It has been in use by her students for the two years. The programme went [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Date:&nbsp; Tuesday, 25 Apr 2017</strong><br><strong>Speakers: Roxanne Miller (formerly Wong)</strong></p>
-
-
-
-<p>‘Roxifyonline’ is an automated feedback system designed to give students help with essay writing.&nbsp; This program is the product of Roxanne’s PhD research and was designed for use by EFL/ESL learners. It has been in use by her students for the two years. The programme went through 4 different rounds of beta testing and will soon be available online.&nbsp;The presenters provided student comments on the program, a short demo and a link to use it with teachers’ classes.</p>
 ]]></content:encoded>
 					
 		
